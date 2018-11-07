@@ -1,0 +1,37 @@
+img {
+    width: 270px; 
+}
+
+h1 {
+    font-family: 'Spicy Rice', cursive;
+}
+
+.game {
+    font-family: 'Righteous', cursive;
+    color: red;
+}
+
+.movie {
+    font-family: 'Pattaya', sans-serif;
+    color: brown;
+}
+
+.fish {
+    font-family: 'MedievalSharp', cursive;
+    color: salmon;
+    
+}
+
+.album {
+    font-family: 'Permanent Marker', cursive;
+    color: green;
+}
+    
+ body {
+     background-image: url(http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c325.png),url(http://www.stickpng.com/assets/images/585d3c30cb11b227491c335d.png);
+     background-repeat: no-repeat;
+     background-position: center right 100px, bottom left;
+     background-size: 200px;
+     text-align: center;
+     background-color: beige;
+}
